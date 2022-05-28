@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfaoficial
-- 👀 I’m interested in coding PHP, React and Node
-- 🌱 I’m currently learning Laravel 8^
+- 👀 I’m interested in coding PHP, Reactjs and Node
+- 🌱 I’m currently learning Reactjs
 - 📫 To reach me send a mail to: mfaoficial@gmail.com
 
 <!---
