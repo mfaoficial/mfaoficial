@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @mfaoficial
-- 👀 I’m interested in coding PHP, Reactjs and Node
-- 🌱 I’m currently learning Reactjs
-- 📫 To reach me send a mail to: mfaoficial@gmail.com
-
-<!---
-mfaoficial/mfaoficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Dev Back-End
+- Possuo conhecimento em HTML, CSS, Javascript, Jquery, PHP, Code Igniter 4 e Laravel.
+- Cursando Ciência da Computação pela faculdade Descomplica e React, React Native e Node.js pela RocketSeat
+- Meu e-mail de contato: mfaoficial@gmail.com
