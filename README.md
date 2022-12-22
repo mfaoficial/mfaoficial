@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá, eu sou o Matheus </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+pela+Descomplica;Cursando+React%2C+React+Native+e+Node.js+pela+RocketSeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&height=100&lines=Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+pela+Descomplica;Cursando+React%2C+React+Native+e+Node.js+pela+RocketSeat)](https://git.io/typing-svg)
 
 - Dev Back-End
 - Possuo conhecimento em HTML, CSS, Javascript, Jquery, PHP, Code Igniter 4 e Laravel.
