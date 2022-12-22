@@ -1,19 +1,17 @@
+
+<h1 align="center">Olá, eu sou o Matheus </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+pela+Descomplica;Cursando+React%2C+React+Native+e+Node.js+pela+RocketSeat)](https://git.io/typing-svg)
+
 - Dev Back-End
 - Possuo conhecimento em HTML, CSS, Javascript, Jquery, PHP, Code Igniter 4 e Laravel.
-- Cursando Ciência da Computação pela faculdade Descomplica e React, React Native e Node.js pela RocketSeat
-- Meu e-mail de contato: mfaoficial@gmail.com
 
 ***************	
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfaoficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mfaoficial&layout=compact&langs_count=8&theme=radical"/>
-<div>	
-	
-	
-<h3 align="center">Linguagens e Ferramentas:</h3>
-<p align="center"><img height="40" width="40" src="https://cdn.simpleicons.org/css3/fd428d" /> <img height="40" width="40" src="https://cdn.simpleicons.org/html5/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/express/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/fd428d"/></p></div>
-</div>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfaoficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mfaoficial&layout=compact&langs_count=8&theme=tokyonight"/>
+<div>
 
 *******************
 
