@@ -16,7 +16,7 @@
 *******************
 
 <h3 align="center">Entre em contato:</h3>
-<a href="mailto:mfaoficial@gmail.com" target="blank"><p align="center"><img src="https://custom-icon-badges.demolab.com/badge/-mfaoficial@gmail.com-000000?style=for-the-badge&logo=mention&logoColor=white"></a>
+<a href="mailto:mfaoficial@gmail.com" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-mfaoficial@gmail.com-000000?style=for-the-badge&logo=mention&logoColor=white"></a>
 <a href="https://linkedin.com/in/matheus-aquino-73523927" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/mfaplay" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
