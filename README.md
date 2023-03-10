@@ -1,10 +1,11 @@
 
 <h1 align="center">Olá, eu sou o Matheus Aquino</h1>
 
-- Dev Back-End
+- Desenvolvedor Full Stack
 - Possuo conhecimento em HTML, CSS, Javascript, Jquery, PHP, Code Igniter 4 e Laravel.
-- Cursando Ciência da Computação pela Descomplica.
+- Cursando o 1ºPeríodo de Ciência da Computação pela Descomplica.
 - Estudando React, ReactJS e React Native pela Rocketseat.
+- Em constante aprendizado em busca da senioriedade.
 
 ***************	
 
