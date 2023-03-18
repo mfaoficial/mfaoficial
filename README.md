@@ -3,8 +3,9 @@
 
 - Desenvolvedor Full Stack
 - Possuo conhecimento em HTML, CSS, Javascript, Jquery, PHP, Code Igniter 4 e Laravel.
-- Cursando o 1ºPeríodo de Ciência da Computação pela Descomplica.
+- Cursando Ciência da Computação pela Descomplica.
 - Estudando React, ReactJS e React Native pela Rocketseat.
+- Estudando Vue.js por conta própria com cursos da Udemy.
 - Em constante aprendizado em busca da senioriedade.
 
 ***************	
