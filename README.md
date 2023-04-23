@@ -5,7 +5,6 @@
 - Possuo conhecimento em HTML, CSS, Javascript, Jquery, PHP, Code Igniter 4, Laravel e VueJS.
 - Cursando Ciência da Computação pela Descomplica.
 - Estudando React, ReactJS e React Native pela Rocketseat.
-- Estudando Vue.js por conta própria com cursos da Udemy.
 - Em constante aprendizado em busca da senioriedade.
 
 ***************	
